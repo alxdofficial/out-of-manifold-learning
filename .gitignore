@@ -1,3 +1,14 @@
 proj_rnn/data/fig2/reaching_experiment_results_IF.npy
 proj_rnn/data/fig2/reaching_relearning_results_IF.npy
 proj_rnn/data/fig2/W_stabilized_reaching_IF.npy
+incremental_results.csv
+incremental_results.npy
+interleaved_results.csv
+interleaved_results.npy
+talphas.csv
+test_seeds.csv
+proj_rnn/data/fig2/network.npz
+proj_rnn/data/fig2/reaching_experiment_results.npy
+proj_rnn/data/fig2/reaching_relearning_results.npy
+proj_rnn/data/fig2/W_initial.npy
+proj_rnn/data/fig2/W_stabilized_reaching.npy
