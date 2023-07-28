@@ -6,3 +6,9 @@ proj_rnn/data/fig2/reaching_experiment_results.npy
 proj_rnn/data/fig2/reaching_relearning_results.npy
 proj_rnn/data/fig2/W_initial.npy
 proj_rnn/data/fig2/W_stabilized_reaching.npy
+aso_ance_w.npy
+aso_ance.npy
+aso_P
+aso_w_in.npy
+aso_w.npy
+aso_wplastic
